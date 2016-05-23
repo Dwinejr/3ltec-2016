@@ -2713,6 +2713,15 @@ width: 100%;
 width: inherit;
 margin: inherit;
 }
+.board_htm {
+font-family: arial !important;
+}
+.board_htm.description p {
+line-height: 1.8 !important;
+}
+.board_htm p {
+margin: 12px 0 0 !important;
+}
 .tablePage tr:nth-child(even),
 table tr:nth-child(even),
 .Pedidos tr:nth-child(odd) {
