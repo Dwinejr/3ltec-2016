@@ -3543,3 +3543,10 @@ overflow: visible;
 .lista-formas-pagamento{
     display: block !important;
 }
+
+/* Adições no css padrão da TRAY */
+
+.varTit {
+	background-color: #ae0015 !important;
+	background-image: none !important;
+}
